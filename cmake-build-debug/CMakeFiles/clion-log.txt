@@ -1,0 +1,6 @@
+/app/extra/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/ninja -G Ninja -S /home/vivi/CLionProjects/IO-03_Malii_AK_LAB3 -B /home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/cmake-build-debug
+-- OS: Linux
+-- Compile with static library? ON
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/cmake-build-debug

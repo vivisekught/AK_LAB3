@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IO_03_Malii_AK_LAB3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IO_03_Malii_AK_LAB3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IO_03_Malii_AK_LAB3-Debug-7dc3df4eab71392778de.json",
+					"name" : "IO_03_Malii_AK_LAB3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message-a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message-a-Debug-698c8443147b6f444abb.json",
+					"name" : "message-a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message-objs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message-objs-Debug-29d9178ebadbc1842e4b.json",
+					"name" : "message-objs",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/cmake-build-debug",
+		"source" : "/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

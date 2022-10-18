@@ -1,0 +1,5 @@
+/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/build/CMakeFiles/IO_03_Malii_AK_LAB3.dir
+/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/build/CMakeFiles/message-objs.dir
+/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/build/CMakeFiles/message-a.dir
+/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/build/CMakeFiles/edit_cache.dir
+/home/vivi/CLionProjects/IO-03_Malii_AK_LAB3/build/CMakeFiles/rebuild_cache.dir

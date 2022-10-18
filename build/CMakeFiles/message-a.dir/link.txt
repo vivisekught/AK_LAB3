@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmessage-a.a "CMakeFiles/message-objs.dir/src/library.c.o"
+/usr/bin/ranlib libmessage-a.a

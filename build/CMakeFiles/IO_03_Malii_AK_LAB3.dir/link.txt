@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/IO_03_Malii_AK_LAB3.dir/src/main.c.o -o IO_03_Malii_AK_LAB3  libmessage-a.a 
